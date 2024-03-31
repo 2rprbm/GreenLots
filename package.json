@@ -1,0 +1,30 @@
+{
+  "name": "greenlots-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.4",
+    "@emotion/server": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.11",
+    "@mui/material": "^5.15.11",
+    "@mui/material-nextjs": "^5.15.11",
+    "@types/node": "20.11.24",
+    "@types/react": "18.2.61",
+    "@types/react-dom": "18.2.19",
+    "next": "14.1.1",
+    "next-fonts": "^1.5.1",
+    "next-images": "^1.8.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^6.1.8",
+    "typescript": "5.3.3"
+  }
+}
